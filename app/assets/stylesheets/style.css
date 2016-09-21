@@ -816,11 +816,11 @@ left:45%;
   opacity: 1.0;
 }
 a.callbacks_nav.callbacks1_nav.prev {
-	background: transparent url(/assetss/themes.png") no-repeat 0px 0px;
+	background: transparent url('/assets/themes.png') no-repeat 0px 0px;
   left: 13%;
 }
 .callbacks_nav.next {
-	background: transparent url(/assetss/themes.png") no-repeat -20px 0px;
+	background: transparent url('/assets/themes.png') no-repeat -20px 0px;
   left: 84%;
 }
 #slider3-pager a,#slider4-pager a  {
@@ -906,7 +906,7 @@ left:46%;
 ul.social-slide li i{
 	width:70px;
 	height:74px;
-	background:url(/assets/img-resources.png)no-repeat;
+	background:url('/assets/img-resources.png')no-repeat;
 	display: inline-block;
 	margin:0px 15px;
 }
@@ -951,12 +951,12 @@ ul.social-slide li i.mac{
 	background: #99cc33;	
 }
 a.callbacks_nav.callbacks2_nav.prev {
-background: transparent url(/assetss/2.png") no-repeat left top;
+background: transparent url('/assets/2.png') no-repeat left top;
 width:23px;
 height:23px;
 }
 a.callbacks_nav.callbacks2_nav.next{
-background: transparent url(/assetss/2.png") no-repeat -29px 0px;
+background: transparent url('/assets/2.png') no-repeat -29px 0px;
 width:23px;
 height:23px;
 }
@@ -1183,7 +1183,7 @@ margin-right:0;
 .contact-right form input[type="submit"] {
 color:#2b2b2b;
 font-family: 'Lato', sans-serif;
-  background: url(/assets/mess.png) no-repeat 81px 14px;
+  background: url('/assets/mess.png') no-repeat 81px 14px;
   width: 49%;
   border-radius: 4px;
   height: 52px;
@@ -1238,7 +1238,7 @@ color:#ffffff;
 }
 /*-- //footer --*/
 .footer-top{
-	background: url(/assets/footer.jpg) no-repeat 0px 0px;
+	background: url('/assets/footer.jpg') no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1246,7 +1246,7 @@ color:#ffffff;
 	min-height:188px;
 }
 .contact-back{
-	background: url(/assets/con-t.jpg) no-repeat 0px 0px;
+	background: url('/assets/con-t.jpg') no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1254,7 +1254,7 @@ color:#ffffff;
 	min-height:85px;
 }
 .client-back{
-background: url(/assets/clien-b.jpg) no-repeat 0px 0px;
+background: url('/assets/clien-b.jpg') no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1719,7 +1719,7 @@ margin: 12px 0 0 0;
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url(/assetss/arr.png") no-repeat 0px 0px;
+	background: url('/assets/arr.png') no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 32px;
