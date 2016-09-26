@@ -40,8 +40,14 @@ button#showRightPush img {
 }
 
 /*--header--*/
+.slogans {
+  color:#fff;
+}
 .logo {
   float: left;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  font-weight: 500;
 }
 .top-nav{
 	float:right;
@@ -1148,10 +1154,10 @@ font-size:20px;
   margin: 30px 0 0 0;
   font-weight: 800;
 }
-.contact-right input[type="text"]:hover,.contact-right textarea:hover {
+.contact-right input[type="text"]:hover, .contact-right input[type="email"]:hover, .contact-right textarea:hover {
 border:3px solid #40c4a4;
 }
-.contact-right input[type="text"] {
+.contact-right input[type="text"], .contact-right input[type="email"] {
 border:3px solid transparent;
 border-radius:2px;
 font-family: 'Lato', sans-serif;
@@ -1160,9 +1166,10 @@ font-family: 'Lato', sans-serif;
 	padding: 14px;
 	font-size: 18px;
 	font-weight:300;
-	color: #c9c9cb;
+	color: #171616;
 	margin: 0 24px 24px 0;
 }
+
 .contact-right textarea {
 border:3px solid transparent;
 border-radius:2px;
@@ -1172,7 +1179,7 @@ font-family: 'Lato', sans-serif;
 	outline: none;
 	font-weight:300;
 	font-size: 18px;
-	color: #c9c9cb;
+	color: #171616;
 	resize: none;
 	padding: 14px;
 	margin-bottom: 24px;
@@ -3203,7 +3210,7 @@ border:none;
 }
 .logo {
   float: left;
-  width: 35%;
+  width: 35%
 }
 .top-header {
   margin-top: 18px;
